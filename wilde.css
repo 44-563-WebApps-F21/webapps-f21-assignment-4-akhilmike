@@ -40,3 +40,17 @@ table,td,th
     padding: 5px;
     margin: 20px;
 }
+
+tr:nth-child(even){
+    background-color: burlywood;
+}
+
+.lordgoringnew:hover{
+    text-shadow: 2px 3px 4px red;
+}
+.ladychilternnew:hover{
+    text-shadow: 2px 3px 4px red;
+}
+.robertchilternnew:hover{
+    text-shadow: 2px 3px 4px red;
+}
