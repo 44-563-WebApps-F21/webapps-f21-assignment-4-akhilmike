@@ -30,3 +30,13 @@ font-family: sans-serif;}
     background-color: cadetblue;
     color: gold;
 }
+
+table,td,th
+{
+    border: solid 1px;
+    text-align: center;
+    width: 25%;
+    color: black;
+    padding: 5px;
+    margin: 20px;
+}
