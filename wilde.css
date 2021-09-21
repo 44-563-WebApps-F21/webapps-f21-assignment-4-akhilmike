@@ -1,0 +1,32 @@
+.speech{
+color: black;
+font-size: 12px;
+font-family: sans-serif;}
+
+.hopper{
+    color:purple;
+}
+
+.dumby{
+    color: brown;
+}
+
+.duchessberwick{
+    color: blue;
+}
+
+.parker{
+    color: blue;
+}
+
+.stagedirection{
+    background-color:lightgray;
+    color: black;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+.stagedirection:hover{
+    background-color: cadetblue;
+    color: gold;
+}
